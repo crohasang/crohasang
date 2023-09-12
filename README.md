@@ -5,3 +5,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crohasang&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mooseem)](https://solved.ac/백준아이디/)
+
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://quickchabun.tistory.com/)](https://quickchabun.tistory.com/)
