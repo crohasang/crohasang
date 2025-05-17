@@ -4,10 +4,10 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduce </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-      <li> 소통하고 기록하는 웹 프론트엔드 개발자 조하상입니다.</li>
-      <li> 건국대학교 개발 동아리 <a href="https://quickchabun.tistory.com/117">KUIT 3기 웹 파트장</a> (2024.02 ~ 2024.08)</li>
-      <li> 건국대학교 개발 동아리 <a href="https://quickchabun.tistory.com/167">KUIT 4기 회장</a> (2024.08 ~ 2025.02)</li>
-      <li> 다이닝코드 웹 프론트엔드 인턴 (2025.03 ~ 2025.06) </li>
+      <li> 🎓 Konkuk University, Department of Computer Engineering</li>
+      <li> 👨‍💻 <a href="https://quickchabun.tistory.com/117">Web Part Leader of KUIT, 3rd Generation</a> (2024.02 ~ 2024.08)</li>
+      <li> 👥 <a href="https://quickchabun.tistory.com/167">President of KUIT, 4th Generation</a> (2024.08 ~ 2025.02)</li>
+      <li> 🏢 Web Frontend Intern at Diningcode (2025.03 - 2025.06) </li>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
