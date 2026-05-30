@@ -7,7 +7,8 @@
       <li> 👨‍💻 <a href="https://quickchabun.tistory.com/117">Web Part Leader of KUIT, 3rd Generation</a> (2024.02 - 2024.08)</li>
       <li> 👥 <a href="https://quickchabun.tistory.com/167">President of KUIT, 4th Generation</a> (2024.08 - 2025.02)</li>
       <li> 🌱 <a href="https://quickchabun.tistory.com/category/Intern">Web Frontend Intern at Diningcode</a> (2025.03 - 2025.06) </li>
-      <li> 🏢 Web Frontend Developer at Diningcode (2025.06 - ) </li>
+      <li> 🏢 Web Frontend Developer at Diningcode (2025.06 - 2026.04) </li>
+      <li> Internship somewhere (to be revealed soon) (2026.04 - 2026.05) </li>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
